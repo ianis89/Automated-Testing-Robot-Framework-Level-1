@@ -13,3 +13,8 @@ Use the page object pattern to create more reusable, easier to interpret test au
 Run/execute Robot Framework automated tests in many different ways, including from a command window, batch files, Jenkins, and Windows task scheduler
 
 Create user defined keywords to express your tests in business domain terms instead of cryptic Selenium Webdriver code
+
+
+
+
+ file:///home/ianis/Videos/Screencasts/Screencast%20from%2030.01.2023%2014:35:08.webm
