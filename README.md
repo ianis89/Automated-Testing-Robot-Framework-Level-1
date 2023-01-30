@@ -17,7 +17,7 @@ Create user defined keywords to express your tests in business domain terms inst
 
 
 
-**Below you can find a project video**
+**Below you can find a project video:**
 
 https://user-images.githubusercontent.com/95642631/215524464-87cf4b01-4a2c-4953-9f39-42c17d6b2dde.mp4
 
