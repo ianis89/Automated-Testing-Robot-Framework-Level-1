@@ -1,6 +1,7 @@
 # Automated-Testing-with Robot Famework part 1
 
-# This project contains:
+**Along this project I gathered the following knowledge:**
+
 
 Install & configure the Robot Framework test automation tool plus libraries like Selenium, API, database, and more
 
